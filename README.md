@@ -1,7 +1,6 @@
-## Santander Dev Week 2024
-
+# Santander Dev Week 2024
+ Java Restful API criada para standerdevweek
 ## Diagrama de Classes 
-
 ```mermaid
 classDiagram
     class User {
